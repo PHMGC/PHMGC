@@ -57,19 +57,29 @@ reconstruction scalability, leveraging ACCV-published methodologies.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PHMGC&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Pedro's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PHMGC&theme=github-dark-blue&hide_border=true" alt="Pedro's Streak Stats"/>
+
+  <picture>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PHMGC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Pedro's GitHub Stats"/>
+  </picture>
+  <picture>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=PHMGC&theme=github-dark-blue&hide_border=true" alt="Pedro's Streak Stats"/>
+  </picture>
+
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHMGC&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+  <picture>
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PHMGC&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </picture>
+
 </div>
 
 ---
 
 <div align="center">
   
-### 💭 *"The best way to predict the future is to invent it."* – Alan Kay
+### 💭 *"Sometimes it is the people no one can imagine anything of who do the things no one can imagine."* – Alan Turing
 
 ⭐️ From [PHMGC](https://github.com/PHMGC)
 
